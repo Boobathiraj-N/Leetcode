@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/Boobathiraj-N/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Boobathiraj-N/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Boobathiraj-N/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Sorting
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/Boobathiraj-N/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Boobathiraj-N/Leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -57,4 +59,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/Boobathiraj-N/Leetcode/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
