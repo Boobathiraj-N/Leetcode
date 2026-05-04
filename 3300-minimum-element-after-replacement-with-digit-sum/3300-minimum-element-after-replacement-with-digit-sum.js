@@ -5,14 +5,12 @@
 var minElement = function(nums) {
     var arr=[];
     for(item of nums){
-        var str =String(item)
-        var sum=0;
-        for(char of str){
-            if(char !==0){
-                sum+=Number(char)
-            }
-        }
-        arr.push(sum)
+      var sum=0;
+      while(item>0){
+          sum+=item%10
+          item= Math.floor(item/10)
+      }
+      arr.push(sum)
     }
     return Math.min(...arr);
 };
