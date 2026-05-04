@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2418-sort-the-people](https://github.com/Boobathiraj-N/Leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Boobathiraj-N/Leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Boobathiraj-N/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Boobathiraj-N/Leetcode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Boobathiraj-N/Leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Boobathiraj-N/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Boobathiraj-N/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2418-sort-the-people](https://github.com/Boobathiraj-N/Leetcode/tree/main/2418-sort-the-people/) | Easy |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Boobathiraj-N/Leetcode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Boobathiraj-N/Leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 ## Math
 | Problem Name | Difficulty |
