@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0832-flipping-an-image](https://github.com/Boobathiraj-N/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [1313-decompress-run-length-encoded-list](https://github.com/Boobathiraj-N/Leetcode/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Boobathiraj-N/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Boobathiraj-N/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Boobathiraj-N/Leetcode/tree/main/0258-add-digits/) | Easy |
+| [0832-flipping-an-image](https://github.com/Boobathiraj-N/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Boobathiraj-N/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Boobathiraj-N/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Sorting
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0832-flipping-an-image](https://github.com/Boobathiraj-N/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Boobathiraj-N/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -92,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0832-flipping-an-image](https://github.com/Boobathiraj-N/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 ## String Matching
@@ -106,4 +110,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Boobathiraj-N/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0832-flipping-an-image](https://github.com/Boobathiraj-N/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 <!---LeetCode Topics End-->
