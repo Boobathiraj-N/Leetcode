@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Boobathiraj-N/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Boobathiraj-N/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Boobathiraj-N/Leetcode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2418-sort-the-people](https://github.com/Boobathiraj-N/Leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Boobathiraj-N/Leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
