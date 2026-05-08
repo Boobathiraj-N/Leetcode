@@ -3,12 +3,12 @@
  * @return {number[]}
  */
 var findMissingAndRepeatedValues = function(grid) {
-    var arr = grid.join(",").split(",")
+    var arr = grid.flat()
     for(i=1;i<=arr.length;i++){
         if(arr.indexOf(arr[i])!==arr.lastIndexOf(arr[i])){
-        var repeat=Number(arr[i]);
+        var repeat=arr[i];
         }
-        if(!arr.includes(String(i))){
+        if(!arr.includes(i)){
             var missing = i
         }
     }
