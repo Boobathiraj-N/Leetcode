@@ -1,0 +1,16 @@
+var isAcronym = function(words, s) {
+    if(words.length !== s.length){
+        return false
+    }
+    else{
+        for(i=0;i<words.length;i++){
+            if(words[i].at(0)!==s[i]){
+                return false
+            }
+        }
+        return true;
+    }
+    
+};
+
+console.log(isAcronym(["never","gonna","give","up","on","you"],"ngguoy"))
