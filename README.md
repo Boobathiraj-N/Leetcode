@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Boobathiraj-N/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Boobathiraj-N/Leetcode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Boobathiraj-N/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Boobathiraj-N/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Boobathiraj-N/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## String
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Boobathiraj-N/Leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Boobathiraj-N/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Boobathiraj-N/Leetcode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Boobathiraj-N/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
