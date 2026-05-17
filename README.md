@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1051-height-checker](https://github.com/Boobathiraj-N/Leetcode/tree/main/1051-height-checker/) | Easy |
 | [1313-decompress-run-length-encoded-list](https://github.com/Boobathiraj-N/Leetcode/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Boobathiraj-N/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Boobathiraj-N/Leetcode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Boobathiraj-N/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0832-flipping-an-image](https://github.com/Boobathiraj-N/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Boobathiraj-N/Leetcode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Boobathiraj-N/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Boobathiraj-N/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Counting Sort
