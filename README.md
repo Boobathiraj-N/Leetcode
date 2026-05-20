@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1528-shuffle-string](https://github.com/Boobathiraj-N/Leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Boobathiraj-N/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Boobathiraj-N/Leetcode/tree/main/1725-number-of-rectangles-that-can-form-the-largest-square/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/Boobathiraj-N/Leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Boobathiraj-N/Leetcode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
