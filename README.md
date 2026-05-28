@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Boobathiraj-N/Leetcode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Boobathiraj-N/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1436-destination-city](https://github.com/Boobathiraj-N/Leetcode/tree/main/1436-destination-city/) | Easy |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Boobathiraj-N/Leetcode/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Boobathiraj-N/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
