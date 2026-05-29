@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Boobathiraj-N/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3467-transform-array-by-parity](https://github.com/Boobathiraj-N/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3731-find-missing-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
