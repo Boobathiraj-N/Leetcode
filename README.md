@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2788-split-strings-by-separator](https://github.com/Boobathiraj-N/Leetcode/tree/main/2788-split-strings-by-separator/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Boobathiraj-N/Leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Boobathiraj-N/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
+| [2951-find-the-peaks](https://github.com/Boobathiraj-N/Leetcode/tree/main/2951-find-the-peaks/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Boobathiraj-N/Leetcode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Boobathiraj-N/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Boobathiraj-N/Leetcode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
@@ -249,4 +250,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2363-merge-similar-items](https://github.com/Boobathiraj-N/Leetcode/tree/main/2363-merge-similar-items/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2951-find-the-peaks](https://github.com/Boobathiraj-N/Leetcode/tree/main/2951-find-the-peaks/) | Easy |
 <!---LeetCode Topics End-->
