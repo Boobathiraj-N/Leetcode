@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1528-shuffle-string](https://github.com/Boobathiraj-N/Leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/Boobathiraj-N/Leetcode/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Boobathiraj-N/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1710-maximum-units-on-a-truck](https://github.com/Boobathiraj-N/Leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Boobathiraj-N/Leetcode/tree/main/1725-number-of-rectangles-that-can-form-the-largest-square/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/Boobathiraj-N/Leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1122-relative-sort-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Boobathiraj-N/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1710-maximum-units-on-a-truck](https://github.com/Boobathiraj-N/Leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Boobathiraj-N/Leetcode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2363-merge-similar-items](https://github.com/Boobathiraj-N/Leetcode/tree/main/2363-merge-similar-items/) | Easy |
@@ -240,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0942-di-string-match](https://github.com/Boobathiraj-N/Leetcode/tree/main/0942-di-string-match/) | Easy |
+| [1710-maximum-units-on-a-truck](https://github.com/Boobathiraj-N/Leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 ## Sliding Window
