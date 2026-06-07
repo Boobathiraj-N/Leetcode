@@ -4,7 +4,7 @@
  * @return {number}
  */
 var countPrefixes = function(words, s) {
-    var str = words.join(" ");
+    // var str = words.join(" ");
     var count=0;
     for(item of words){
         if(s.startsWith(item)){
