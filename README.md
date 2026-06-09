@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2418-sort-the-people](https://github.com/Boobathiraj-N/Leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Boobathiraj-N/Leetcode/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2460-apply-operations-to-an-array/) | Easy |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Boobathiraj-N/Leetcode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Boobathiraj-N/Leetcode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2185-counting-words-with-a-given-prefix](https://github.com/Boobathiraj-N/Leetcode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Boobathiraj-N/Leetcode/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2418-sort-the-people](https://github.com/Boobathiraj-N/Leetcode/tree/main/2418-sort-the-people/) | Easy |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Boobathiraj-N/Leetcode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/Boobathiraj-N/Leetcode/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2788-split-strings-by-separator](https://github.com/Boobathiraj-N/Leetcode/tree/main/2788-split-strings-by-separator/) | Easy |
