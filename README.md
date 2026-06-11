@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2460-apply-operations-to-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Boobathiraj-N/Leetcode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Boobathiraj-N/Leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Boobathiraj-N/Leetcode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Boobathiraj-N/Leetcode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1748-sum-of-unique-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Boobathiraj-N/Leetcode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Boobathiraj-N/Leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Boobathiraj-N/Leetcode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Boobathiraj-N/Leetcode/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Boobathiraj-N/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
@@ -263,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/Boobathiraj-N/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Boobathiraj-N/Leetcode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Boobathiraj-N/Leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
