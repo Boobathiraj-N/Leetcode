@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2460-apply-operations-to-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Boobathiraj-N/Leetcode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
+| [2506-count-pairs-of-similar-strings](https://github.com/Boobathiraj-N/Leetcode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Boobathiraj-N/Leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Boobathiraj-N/Leetcode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2255-count-prefixes-of-a-given-string](https://github.com/Boobathiraj-N/Leetcode/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2418-sort-the-people](https://github.com/Boobathiraj-N/Leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
+| [2506-count-pairs-of-similar-strings](https://github.com/Boobathiraj-N/Leetcode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Boobathiraj-N/Leetcode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/Boobathiraj-N/Leetcode/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2788-split-strings-by-separator](https://github.com/Boobathiraj-N/Leetcode/tree/main/2788-split-strings-by-separator/) | Easy |
@@ -161,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1748-sum-of-unique-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Boobathiraj-N/Leetcode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [2506-count-pairs-of-similar-strings](https://github.com/Boobathiraj-N/Leetcode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Boobathiraj-N/Leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Boobathiraj-N/Leetcode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Boobathiraj-N/Leetcode/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
@@ -185,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2363-merge-similar-items](https://github.com/Boobathiraj-N/Leetcode/tree/main/2363-merge-similar-items/) | Easy |
 | [2418-sort-the-people](https://github.com/Boobathiraj-N/Leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Boobathiraj-N/Leetcode/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [2506-count-pairs-of-similar-strings](https://github.com/Boobathiraj-N/Leetcode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Boobathiraj-N/Leetcode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Boobathiraj-N/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Boobathiraj-N/Leetcode/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
@@ -267,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/Boobathiraj-N/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [2032-two-out-of-three](https://github.com/Boobathiraj-N/Leetcode/tree/main/2032-two-out-of-three/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Boobathiraj-N/Leetcode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [2506-count-pairs-of-similar-strings](https://github.com/Boobathiraj-N/Leetcode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
