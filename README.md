@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Boobathiraj-N/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2032-two-out-of-three](https://github.com/Boobathiraj-N/Leetcode/tree/main/2032-two-out-of-three/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Boobathiraj-N/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Boobathiraj-N/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1773-count-items-matching-a-rule](https://github.com/Boobathiraj-N/Leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Boobathiraj-N/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Boobathiraj-N/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Boobathiraj-N/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Boobathiraj-N/Leetcode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
@@ -162,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1394-find-lucky-integer-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Boobathiraj-N/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Boobathiraj-N/Leetcode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/Boobathiraj-N/Leetcode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Boobathiraj-N/Leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
@@ -182,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1748-sum-of-unique-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2032-two-out-of-three](https://github.com/Boobathiraj-N/Leetcode/tree/main/2032-two-out-of-three/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Boobathiraj-N/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Boobathiraj-N/Leetcode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Boobathiraj-N/Leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Boobathiraj-N/Leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
