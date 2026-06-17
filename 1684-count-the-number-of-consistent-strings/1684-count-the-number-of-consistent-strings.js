@@ -3,32 +3,30 @@
  * @param {string[]} words
  * @return {number}
  */
-var countConsistentStrings = function(allowed, words) {
-    let str =allowed.split("").sort().join("")
+function countConsistentStrings(allowed, words) {
+    // Search operation speed ah irukka 'allowed' characters ah Set ah mathikrom
+    const allowedSet = new Set(allowed);
+    let consistentCount = 0;
 
-    let newarr = words.map((item)=>{
-        return [...new Set(item.split(""))].sort().join("")
-    })
-    let count=0;
-    
-    for(item of newarr){
-        if(str.includes(item)){
-            count++;
+    // Oru oru word ah check panrom
+    for (let word of words) {
+        let isConsistent = true;
+
+        // Word la irukka ovvoru character um allowed Set la irukkanu pakrom
+        for (let char of word) {
+            if (!allowedSet.has(char)) {
+                isConsistent = false; // Set la illana adu consistent illai
+                break; // Aduthu check panna thevai illai, loop ah break pannalaam
+            }
         }
-        else{
-            for(letter of item){
-                var flag =0;
-                if(!str.includes(letter)){
-                    flag=1;
-                    break;
-                }
-            }
-            if(flag ==0){
-                count++
-            }
+
+        // Word consistent ah irundha count ah increment panrom
+        if (isConsistent) {
+            consistentCount++;
         }
     }
-    return count
-};
+
+    return consistentCount;
+}
 
 console.log(countConsistentStrings("cad",["cc","acd","b","ba","bac","bad","ac","d"]))
