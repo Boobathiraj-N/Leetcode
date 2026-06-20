@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2788-split-strings-by-separator](https://github.com/Boobathiraj-N/Leetcode/tree/main/2788-split-strings-by-separator/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Boobathiraj-N/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Boobathiraj-N/Leetcode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
+| [3110-score-of-a-string](https://github.com/Boobathiraj-N/Leetcode/tree/main/3110-score-of-a-string/) | Easy |
 | [3921-score-validator](https://github.com/Boobathiraj-N/Leetcode/tree/main/3921-score-validator/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
