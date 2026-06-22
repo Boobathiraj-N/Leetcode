@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2206-divide-array-into-equal-pairs](https://github.com/Boobathiraj-N/Leetcode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Boobathiraj-N/Leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Boobathiraj-N/Leetcode/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Boobathiraj-N/Leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Boobathiraj-N/Leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2363-merge-similar-items](https://github.com/Boobathiraj-N/Leetcode/tree/main/2363-merge-similar-items/) | Easy |
 | [2418-sort-the-people](https://github.com/Boobathiraj-N/Leetcode/tree/main/2418-sort-the-people/) | Easy |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Boobathiraj-N/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Boobathiraj-N/Leetcode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Boobathiraj-N/Leetcode/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Boobathiraj-N/Leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2418-sort-the-people](https://github.com/Boobathiraj-N/Leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/Boobathiraj-N/Leetcode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
@@ -158,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1710-maximum-units-on-a-truck](https://github.com/Boobathiraj-N/Leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Boobathiraj-N/Leetcode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Boobathiraj-N/Leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Boobathiraj-N/Leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2363-merge-similar-items](https://github.com/Boobathiraj-N/Leetcode/tree/main/2363-merge-similar-items/) | Easy |
 | [2418-sort-the-people](https://github.com/Boobathiraj-N/Leetcode/tree/main/2418-sort-the-people/) | Easy |
@@ -202,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2085-count-common-words-with-one-occurrence](https://github.com/Boobathiraj-N/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Boobathiraj-N/Leetcode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Boobathiraj-N/Leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Boobathiraj-N/Leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Boobathiraj-N/Leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2363-merge-similar-items](https://github.com/Boobathiraj-N/Leetcode/tree/main/2363-merge-similar-items/) | Easy |
 | [2418-sort-the-people](https://github.com/Boobathiraj-N/Leetcode/tree/main/2418-sort-the-people/) | Easy |
