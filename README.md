@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Boobathiraj-N/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Boobathiraj-N/Leetcode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1408-string-matching-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Boobathiraj-N/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1436-destination-city](https://github.com/Boobathiraj-N/Leetcode/tree/main/1436-destination-city/) | Easy |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Boobathiraj-N/Leetcode/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0804-unique-morse-code-words](https://github.com/Boobathiraj-N/Leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0942-di-string-match](https://github.com/Boobathiraj-N/Leetcode/tree/main/0942-di-string-match/) | Easy |
 | [1002-find-common-characters](https://github.com/Boobathiraj-N/Leetcode/tree/main/1002-find-common-characters/) | Easy |
+| [1408-string-matching-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1436-destination-city](https://github.com/Boobathiraj-N/Leetcode/tree/main/1436-destination-city/) | Easy |
 | [1528-shuffle-string](https://github.com/Boobathiraj-N/Leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Boobathiraj-N/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -274,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1408-string-matching-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Boobathiraj-N/Leetcode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Boobathiraj-N/Leetcode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 ## Stack
