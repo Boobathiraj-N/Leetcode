@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Boobathiraj-N/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Boobathiraj-N/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0506-relative-ranks](https://github.com/Boobathiraj-N/Leetcode/tree/main/0506-relative-ranks/) | Easy |
+| [0605-can-place-flowers](https://github.com/Boobathiraj-N/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0682-baseball-game](https://github.com/Boobathiraj-N/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Boobathiraj-N/Leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0832-flipping-an-image](https://github.com/Boobathiraj-N/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
@@ -319,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0605-can-place-flowers](https://github.com/Boobathiraj-N/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0942-di-string-match](https://github.com/Boobathiraj-N/Leetcode/tree/main/0942-di-string-match/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/Boobathiraj-N/Leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Boobathiraj-N/Leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
