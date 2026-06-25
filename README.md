@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1748-sum-of-unique-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/Boobathiraj-N/Leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Boobathiraj-N/Leetcode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Boobathiraj-N/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2032-two-out-of-three](https://github.com/Boobathiraj-N/Leetcode/tree/main/2032-two-out-of-three/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1528-shuffle-string](https://github.com/Boobathiraj-N/Leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Boobathiraj-N/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/Boobathiraj-N/Leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Boobathiraj-N/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Boobathiraj-N/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
@@ -270,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-sort-array-by-parity](https://github.com/Boobathiraj-N/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0942-di-string-match](https://github.com/Boobathiraj-N/Leetcode/tree/main/0942-di-string-match/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Boobathiraj-N/Leetcode/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2460-apply-operations-to-an-array/) | Easy |
