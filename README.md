@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Boobathiraj-N/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0136-single-number](https://github.com/Boobathiraj-N/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Boobathiraj-N/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Boobathiraj-N/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Boobathiraj-N/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Boobathiraj-N/Leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0942-di-string-match](https://github.com/Boobathiraj-N/Leetcode/tree/main/0942-di-string-match/) | Easy |
 | [1002-find-common-characters](https://github.com/Boobathiraj-N/Leetcode/tree/main/1002-find-common-characters/) | Easy |
@@ -336,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Boobathiraj-N/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Boobathiraj-N/Leetcode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 ## Rolling Hash
 | Problem Name | Difficulty |
