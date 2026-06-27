@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2363-merge-similar-items](https://github.com/Boobathiraj-N/Leetcode/tree/main/2363-merge-similar-items/) | Easy |
 | [2418-sort-the-people](https://github.com/Boobathiraj-N/Leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Boobathiraj-N/Leetcode/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [2446-determine-if-two-events-have-conflict](https://github.com/Boobathiraj-N/Leetcode/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Boobathiraj-N/Leetcode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2255-count-prefixes-of-a-given-string](https://github.com/Boobathiraj-N/Leetcode/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Boobathiraj-N/Leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2418-sort-the-people](https://github.com/Boobathiraj-N/Leetcode/tree/main/2418-sort-the-people/) | Easy |
+| [2446-determine-if-two-events-have-conflict](https://github.com/Boobathiraj-N/Leetcode/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/Boobathiraj-N/Leetcode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Boobathiraj-N/Leetcode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
