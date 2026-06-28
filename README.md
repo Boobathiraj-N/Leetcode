@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Boobathiraj-N/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Boobathiraj-N/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0506-relative-ranks](https://github.com/Boobathiraj-N/Leetcode/tree/main/0506-relative-ranks/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Boobathiraj-N/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0605-can-place-flowers](https://github.com/Boobathiraj-N/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0682-baseball-game](https://github.com/Boobathiraj-N/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Boobathiraj-N/Leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Boobathiraj-N/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Boobathiraj-N/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Boobathiraj-N/Leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0942-di-string-match](https://github.com/Boobathiraj-N/Leetcode/tree/main/0942-di-string-match/) | Easy |
 | [1002-find-common-characters](https://github.com/Boobathiraj-N/Leetcode/tree/main/1002-find-common-characters/) | Easy |
@@ -200,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Boobathiraj-N/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Boobathiraj-N/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Boobathiraj-N/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Boobathiraj-N/Leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1002-find-common-characters](https://github.com/Boobathiraj-N/Leetcode/tree/main/1002-find-common-characters/) | Easy |
