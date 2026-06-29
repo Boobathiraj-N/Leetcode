@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Boobathiraj-N/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1528-shuffle-string](https://github.com/Boobathiraj-N/Leetcode/tree/main/1528-shuffle-string/) | Easy |
+| [1629-slowest-key](https://github.com/Boobathiraj-N/Leetcode/tree/main/1629-slowest-key/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/Boobathiraj-N/Leetcode/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Boobathiraj-N/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Boobathiraj-N/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1408-string-matching-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1436-destination-city](https://github.com/Boobathiraj-N/Leetcode/tree/main/1436-destination-city/) | Easy |
 | [1528-shuffle-string](https://github.com/Boobathiraj-N/Leetcode/tree/main/1528-shuffle-string/) | Easy |
+| [1629-slowest-key](https://github.com/Boobathiraj-N/Leetcode/tree/main/1629-slowest-key/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Boobathiraj-N/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/Boobathiraj-N/Leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
