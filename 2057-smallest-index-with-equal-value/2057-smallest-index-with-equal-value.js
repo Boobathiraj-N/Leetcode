@@ -6,10 +6,8 @@ var smallestEqual = function(arr) {
     var res=-1;
     for(i=0;i<arr.length;i++){
         if(i%10 == arr[i]){
-            if(res == -1){
                 res =i
                 break
-            }
         }
     }
     return res
