@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Boobathiraj-N/Leetcode/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Boobathiraj-N/Leetcode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3248-snake-in-matrix](https://github.com/Boobathiraj-N/Leetcode/tree/main/3248-snake-in-matrix/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Boobathiraj-N/Leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Boobathiraj-N/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/3423-maximum-difference-between-adjacent-elements-in-a-circular-array/) | Easy |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2942-find-words-containing-character](https://github.com/Boobathiraj-N/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Boobathiraj-N/Leetcode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3110-score-of-a-string](https://github.com/Boobathiraj-N/Leetcode/tree/main/3110-score-of-a-string/) | Easy |
+| [3248-snake-in-matrix](https://github.com/Boobathiraj-N/Leetcode/tree/main/3248-snake-in-matrix/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/Boobathiraj-N/Leetcode/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3921-score-validator](https://github.com/Boobathiraj-N/Leetcode/tree/main/3921-score-validator/) | Easy |
 ## Simulation
@@ -164,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Boobathiraj-N/Leetcode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Boobathiraj-N/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Boobathiraj-N/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3248-snake-in-matrix](https://github.com/Boobathiraj-N/Leetcode/tree/main/3248-snake-in-matrix/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Boobathiraj-N/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Boobathiraj-N/Leetcode/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3921-score-validator](https://github.com/Boobathiraj-N/Leetcode/tree/main/3921-score-validator/) | Easy |
