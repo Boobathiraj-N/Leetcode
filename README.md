@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Boobathiraj-N/Leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3921-score-validator](https://github.com/Boobathiraj-N/Leetcode/tree/main/3921-score-validator/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/Boobathiraj-N/Leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3701-compute-alternating-sum](https://github.com/Boobathiraj-N/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Boobathiraj-N/Leetcode/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3921-score-validator](https://github.com/Boobathiraj-N/Leetcode/tree/main/3921-score-validator/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/Boobathiraj-N/Leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
