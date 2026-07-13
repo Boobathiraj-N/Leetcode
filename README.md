@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Boobathiraj-N/Leetcode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Boobathiraj-N/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Boobathiraj-N/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3683-earliest-time-to-finish-one-task](https://github.com/Boobathiraj-N/Leetcode/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Boobathiraj-N/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
