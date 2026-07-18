@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Boobathiraj-N/Leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Boobathiraj-N/Leetcode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
+| [2562-find-the-array-concatenation-value](https://github.com/Boobathiraj-N/Leetcode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Boobathiraj-N/Leetcode/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Boobathiraj-N/Leetcode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/Boobathiraj-N/Leetcode/tree/main/2643-row-with-maximum-ones/) | Easy |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2500-delete-greatest-value-in-each-row](https://github.com/Boobathiraj-N/Leetcode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Boobathiraj-N/Leetcode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
+| [2562-find-the-array-concatenation-value](https://github.com/Boobathiraj-N/Leetcode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Boobathiraj-N/Leetcode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Boobathiraj-N/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Boobathiraj-N/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -315,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Boobathiraj-N/Leetcode/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2460-apply-operations-to-an-array/) | Easy |
+| [2562-find-the-array-concatenation-value](https://github.com/Boobathiraj-N/Leetcode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Boobathiraj-N/Leetcode/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/Boobathiraj-N/Leetcode/tree/main/3794-reverse-string-prefix/) | Easy |
