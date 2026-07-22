@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2032-two-out-of-three](https://github.com/Boobathiraj-N/Leetcode/tree/main/2032-two-out-of-three/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2057-smallest-index-with-equal-value](https://github.com/Boobathiraj-N/Leetcode/tree/main/2057-smallest-index-with-equal-value/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Boobathiraj-N/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Boobathiraj-N/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -384,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/Boobathiraj-N/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0942-di-string-match](https://github.com/Boobathiraj-N/Leetcode/tree/main/0942-di-string-match/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/Boobathiraj-N/Leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Boobathiraj-N/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Boobathiraj-N/Leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
