@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Boobathiraj-N/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Boobathiraj-N/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Boobathiraj-N/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0500-keyboard-row](https://github.com/Boobathiraj-N/Leetcode/tree/main/0500-keyboard-row/) | Easy |
 | [0506-relative-ranks](https://github.com/Boobathiraj-N/Leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Boobathiraj-N/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0605-can-place-flowers](https://github.com/Boobathiraj-N/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Boobathiraj-N/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0500-keyboard-row](https://github.com/Boobathiraj-N/Leetcode/tree/main/0500-keyboard-row/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Boobathiraj-N/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Boobathiraj-N/Leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/Boobathiraj-N/Leetcode/tree/main/0806-number-of-lines-to-write-string/) | Easy |
@@ -246,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Boobathiraj-N/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Boobathiraj-N/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Boobathiraj-N/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0500-keyboard-row](https://github.com/Boobathiraj-N/Leetcode/tree/main/0500-keyboard-row/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Boobathiraj-N/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Boobathiraj-N/Leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0819-most-common-word](https://github.com/Boobathiraj-N/Leetcode/tree/main/0819-most-common-word/) | Easy |
