@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Boobathiraj-N/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/3423-maximum-difference-between-adjacent-elements-in-a-circular-array/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Boobathiraj-N/Leetcode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
+| [3452-sum-of-good-numbers](https://github.com/Boobathiraj-N/Leetcode/tree/main/3452-sum-of-good-numbers/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Boobathiraj-N/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/Boobathiraj-N/Leetcode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Boobathiraj-N/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
