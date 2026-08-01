@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Boobathiraj-N/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1528-shuffle-string](https://github.com/Boobathiraj-N/Leetcode/tree/main/1528-shuffle-string/) | Easy |
+| [1550-three-consecutive-odds](https://github.com/Boobathiraj-N/Leetcode/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1629-slowest-key](https://github.com/Boobathiraj-N/Leetcode/tree/main/1629-slowest-key/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/Boobathiraj-N/Leetcode/tree/main/1652-defuse-the-bomb/) | Easy |
