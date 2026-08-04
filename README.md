@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2089-find-target-indices-after-sorting-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Boobathiraj-N/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Boobathiraj-N/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Boobathiraj-N/Leetcode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Boobathiraj-N/Leetcode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-transpose-matrix](https://github.com/Boobathiraj-N/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Boobathiraj-N/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Boobathiraj-N/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Boobathiraj-N/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Boobathiraj-N/Leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Boobathiraj-N/Leetcode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
@@ -355,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Boobathiraj-N/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Boobathiraj-N/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Boobathiraj-N/Leetcode/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/Boobathiraj-N/Leetcode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
