@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Boobathiraj-N/Leetcode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Boobathiraj-N/Leetcode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2210-count-hills-and-valleys-in-an-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Boobathiraj-N/Leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Boobathiraj-N/Leetcode/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Boobathiraj-N/Leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
