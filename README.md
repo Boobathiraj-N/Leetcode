@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Boobathiraj-N/Leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Boobathiraj-N/Leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2363-merge-similar-items](https://github.com/Boobathiraj-N/Leetcode/tree/main/2363-merge-similar-items/) | Easy |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Boobathiraj-N/Leetcode/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2399-check-distances-between-same-letters](https://github.com/Boobathiraj-N/Leetcode/tree/main/2399-check-distances-between-same-letters/) | Easy |
 | [2418-sort-the-people](https://github.com/Boobathiraj-N/Leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Boobathiraj-N/Leetcode/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
@@ -293,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Boobathiraj-N/Leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Boobathiraj-N/Leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2363-merge-similar-items](https://github.com/Boobathiraj-N/Leetcode/tree/main/2363-merge-similar-items/) | Easy |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Boobathiraj-N/Leetcode/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2399-check-distances-between-same-letters](https://github.com/Boobathiraj-N/Leetcode/tree/main/2399-check-distances-between-same-letters/) | Easy |
 | [2418-sort-the-people](https://github.com/Boobathiraj-N/Leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Boobathiraj-N/Leetcode/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
