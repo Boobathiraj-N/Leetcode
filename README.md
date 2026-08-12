@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3731-find-missing-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/Boobathiraj-N/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Boobathiraj-N/Leetcode/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/Boobathiraj-N/Leetcode/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Boobathiraj-N/Leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3110-score-of-a-string](https://github.com/Boobathiraj-N/Leetcode/tree/main/3110-score-of-a-string/) | Easy |
 | [3248-snake-in-matrix](https://github.com/Boobathiraj-N/Leetcode/tree/main/3248-snake-in-matrix/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/Boobathiraj-N/Leetcode/tree/main/3794-reverse-string-prefix/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/Boobathiraj-N/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3921-score-validator](https://github.com/Boobathiraj-N/Leetcode/tree/main/3921-score-validator/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -208,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3477-fruits-into-baskets-ii](https://github.com/Boobathiraj-N/Leetcode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Boobathiraj-N/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Boobathiraj-N/Leetcode/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/Boobathiraj-N/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Boobathiraj-N/Leetcode/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3921-score-validator](https://github.com/Boobathiraj-N/Leetcode/tree/main/3921-score-validator/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Boobathiraj-N/Leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
