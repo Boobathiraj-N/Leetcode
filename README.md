@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Boobathiraj-N/Leetcode/tree/main/1725-number-of-rectangles-that-can-form-the-largest-square/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/Boobathiraj-N/Leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Boobathiraj-N/Leetcode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Boobathiraj-N/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -326,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Boobathiraj-N/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Boobathiraj-N/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Boobathiraj-N/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Boobathiraj-N/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Boobathiraj-N/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Boobathiraj-N/Leetcode/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
