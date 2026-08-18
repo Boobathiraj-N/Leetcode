@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Boobathiraj-N/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0136-single-number](https://github.com/Boobathiraj-N/Leetcode/tree/main/0136-single-number/) | Easy |
+| [0169-majority-element](https://github.com/Boobathiraj-N/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Boobathiraj-N/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Boobathiraj-N/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Boobathiraj-N/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Boobathiraj-N/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Boobathiraj-N/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Boobathiraj-N/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Boobathiraj-N/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -261,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Boobathiraj-N/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0819-most-common-word](https://github.com/Boobathiraj-N/Leetcode/tree/main/0819-most-common-word/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Boobathiraj-N/Leetcode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -279,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Boobathiraj-N/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Boobathiraj-N/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Boobathiraj-N/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Boobathiraj-N/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -487,4 +491,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/Boobathiraj-N/Leetcode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Boobathiraj-N/Leetcode/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Boobathiraj-N/Leetcode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
