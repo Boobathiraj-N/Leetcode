@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Boobathiraj-N/Leetcode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/Boobathiraj-N/Leetcode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Boobathiraj-N/Leetcode/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/Boobathiraj-N/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Boobathiraj-N/Leetcode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/Boobathiraj-N/Leetcode/tree/main/2639-find-the-width-of-columns-of-a-grid/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/Boobathiraj-N/Leetcode/tree/main/2643-row-with-maximum-ones/) | Easy |
@@ -373,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/Boobathiraj-N/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Boobathiraj-N/Leetcode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Boobathiraj-N/Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Number Theory
