@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1773-count-items-matching-a-rule](https://github.com/Boobathiraj-N/Leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Boobathiraj-N/Leetcode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/Boobathiraj-N/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Boobathiraj-N/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2032-two-out-of-three](https://github.com/Boobathiraj-N/Leetcode/tree/main/2032-two-out-of-three/) | Easy |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/Boobathiraj-N/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Boobathiraj-N/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Boobathiraj-N/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [1920-build-array-from-permutation](https://github.com/Boobathiraj-N/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Boobathiraj-N/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Boobathiraj-N/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Boobathiraj-N/Leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
