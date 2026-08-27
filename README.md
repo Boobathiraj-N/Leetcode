@@ -359,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Boobathiraj-N/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Boobathiraj-N/Leetcode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Boobathiraj-N/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Boobathiraj-N/Leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Boobathiraj-N/Leetcode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Boobathiraj-N/Leetcode/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 ## Matrix
