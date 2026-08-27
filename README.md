@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1684-count-the-number-of-consistent-strings](https://github.com/Boobathiraj-N/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/Boobathiraj-N/Leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Boobathiraj-N/Leetcode/tree/main/1725-number-of-rectangles-that-can-form-the-largest-square/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/Boobathiraj-N/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/Boobathiraj-N/Leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
@@ -387,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/Boobathiraj-N/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Boobathiraj-N/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Boobathiraj-N/Leetcode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Boobathiraj-N/Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
