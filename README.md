@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1512-number-of-good-pairs](https://github.com/Boobathiraj-N/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1528-shuffle-string](https://github.com/Boobathiraj-N/Leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/Boobathiraj-N/Leetcode/tree/main/1550-three-consecutive-odds/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/Boobathiraj-N/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1629-slowest-key](https://github.com/Boobathiraj-N/Leetcode/tree/main/1629-slowest-key/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/Boobathiraj-N/Leetcode/tree/main/1652-defuse-the-bomb/) | Easy |
@@ -381,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-transpose-matrix](https://github.com/Boobathiraj-N/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Boobathiraj-N/Leetcode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Boobathiraj-N/Leetcode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/Boobathiraj-N/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Boobathiraj-N/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Boobathiraj-N/Leetcode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/Boobathiraj-N/Leetcode/tree/main/2639-find-the-width-of-columns-of-a-grid/) | Easy |
