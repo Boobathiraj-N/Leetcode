@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Boobathiraj-N/Leetcode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2788-split-strings-by-separator](https://github.com/Boobathiraj-N/Leetcode/tree/main/2788-split-strings-by-separator/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Boobathiraj-N/Leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Boobathiraj-N/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Boobathiraj-N/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Boobathiraj-N/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2951-find-the-peaks](https://github.com/Boobathiraj-N/Leetcode/tree/main/2951-find-the-peaks/) | Easy |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Boobathiraj-N/Leetcode/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Boobathiraj-N/Leetcode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/Boobathiraj-N/Leetcode/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Boobathiraj-N/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/Boobathiraj-N/Leetcode/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Boobathiraj-N/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
@@ -426,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2460-apply-operations-to-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/Boobathiraj-N/Leetcode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Boobathiraj-N/Leetcode/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Boobathiraj-N/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/Boobathiraj-N/Leetcode/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
@@ -467,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Boobathiraj-N/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Boobathiraj-N/Leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Boobathiraj-N/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/Boobathiraj-N/Leetcode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
