@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3074-apple-redistribution-into-boxes](https://github.com/Boobathiraj-N/Leetcode/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Boobathiraj-N/Leetcode/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3151-special-array-i](https://github.com/Boobathiraj-N/Leetcode/tree/main/3151-special-array-i/) | Easy |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Boobathiraj-N/Leetcode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Boobathiraj-N/Leetcode/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Boobathiraj-N/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
@@ -348,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2956-find-common-elements-between-two-arrays](https://github.com/Boobathiraj-N/Leetcode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Boobathiraj-N/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Boobathiraj-N/Leetcode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Boobathiraj-N/Leetcode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Boobathiraj-N/Leetcode/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Boobathiraj-N/Leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3606-coupon-code-validator](https://github.com/Boobathiraj-N/Leetcode/tree/main/3606-coupon-code-validator/) | Easy |
