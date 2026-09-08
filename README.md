@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/Boobathiraj-N/Leetcode/tree/main/2639-find-the-width-of-columns-of-a-grid/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/Boobathiraj-N/Leetcode/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
+| [2670-find-the-distinct-difference-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/Boobathiraj-N/Leetcode/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/Boobathiraj-N/Leetcode/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Boobathiraj-N/Leetcode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
@@ -351,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2451-odd-string-difference](https://github.com/Boobathiraj-N/Leetcode/tree/main/2451-odd-string-difference/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/Boobathiraj-N/Leetcode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Boobathiraj-N/Leetcode/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
+| [2670-find-the-distinct-difference-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Boobathiraj-N/Leetcode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Boobathiraj-N/Leetcode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Boobathiraj-N/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
