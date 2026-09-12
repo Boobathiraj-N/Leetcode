@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Boobathiraj-N/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0605-can-place-flowers](https://github.com/Boobathiraj-N/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0682-baseball-game](https://github.com/Boobathiraj-N/Leetcode/tree/main/0682-baseball-game/) | Easy |
+| [0724-find-pivot-index](https://github.com/Boobathiraj-N/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Boobathiraj-N/Leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/Boobathiraj-N/Leetcode/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0819-most-common-word](https://github.com/Boobathiraj-N/Leetcode/tree/main/0819-most-common-word/) | Easy |
@@ -418,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0724-find-pivot-index](https://github.com/Boobathiraj-N/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Boobathiraj-N/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
