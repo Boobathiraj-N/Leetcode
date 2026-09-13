@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3285-find-indices-of-stable-mountains](https://github.com/Boobathiraj-N/Leetcode/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Boobathiraj-N/Leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Boobathiraj-N/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Boobathiraj-N/Leetcode/tree/main/3396-minimum-number-of-operations-to-make-elements-in-array-distinct/) | Easy |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/3423-maximum-difference-between-adjacent-elements-in-a-circular-array/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Boobathiraj-N/Leetcode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3452-sum-of-good-numbers](https://github.com/Boobathiraj-N/Leetcode/tree/main/3452-sum-of-good-numbers/) | Easy |
@@ -365,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Boobathiraj-N/Leetcode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Boobathiraj-N/Leetcode/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Boobathiraj-N/Leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Boobathiraj-N/Leetcode/tree/main/3396-minimum-number-of-operations-to-make-elements-in-array-distinct/) | Easy |
 | [3606-coupon-code-validator](https://github.com/Boobathiraj-N/Leetcode/tree/main/3606-coupon-code-validator/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Boobathiraj-N/Leetcode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
