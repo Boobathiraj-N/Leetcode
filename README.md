@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3683-earliest-time-to-finish-one-task](https://github.com/Boobathiraj-N/Leetcode/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Boobathiraj-N/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Boobathiraj-N/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Boobathiraj-N/Leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
@@ -372,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3606-coupon-code-validator](https://github.com/Boobathiraj-N/Leetcode/tree/main/3606-coupon-code-validator/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Boobathiraj-N/Leetcode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Boobathiraj-N/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Boobathiraj-N/Leetcode/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Math
