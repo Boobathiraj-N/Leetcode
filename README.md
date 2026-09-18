@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Boobathiraj-N/Leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
+| [3833-count-dominant-indices](https://github.com/Boobathiraj-N/Leetcode/tree/main/3833-count-dominant-indices/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Boobathiraj-N/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Boobathiraj-N/Leetcode/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/Boobathiraj-N/Leetcode/tree/main/3861-minimum-capacity-box/) | Easy |
@@ -553,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2951-find-the-peaks](https://github.com/Boobathiraj-N/Leetcode/tree/main/2951-find-the-peaks/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
+| [3833-count-dominant-indices](https://github.com/Boobathiraj-N/Leetcode/tree/main/3833-count-dominant-indices/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
