@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1748-sum-of-unique-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/Boobathiraj-N/Leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Boobathiraj-N/Leetcode/tree/main/1909-remove-one-element-to-make-the-array-strictly-increasing/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Boobathiraj-N/Leetcode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Boobathiraj-N/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
