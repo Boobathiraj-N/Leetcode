@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3978-unique-middle-element](https://github.com/Boobathiraj-N/Leetcode/tree/main/3978-unique-middle-element/) | Easy |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Boobathiraj-N/Leetcode/tree/main/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
 | [4020-elevator-requests-i](https://github.com/Boobathiraj-N/Leetcode/tree/main/4020-elevator-requests-i/) | Easy |
+| [4024-nearest-available-drone](https://github.com/Boobathiraj-N/Leetcode/tree/main/4024-nearest-available-drone/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -556,6 +557,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2951-find-the-peaks](https://github.com/Boobathiraj-N/Leetcode/tree/main/2951-find-the-peaks/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3833-count-dominant-indices](https://github.com/Boobathiraj-N/Leetcode/tree/main/3833-count-dominant-indices/) | Easy |
+| [4024-nearest-available-drone](https://github.com/Boobathiraj-N/Leetcode/tree/main/4024-nearest-available-drone/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
