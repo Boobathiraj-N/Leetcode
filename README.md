@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3663-find-the-least-frequent-digit](https://github.com/Boobathiraj-N/Leetcode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Boobathiraj-N/Leetcode/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Boobathiraj-N/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Boobathiraj-N/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
@@ -251,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Boobathiraj-N/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3248-snake-in-matrix](https://github.com/Boobathiraj-N/Leetcode/tree/main/3248-snake-in-matrix/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/Boobathiraj-N/Leetcode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Boobathiraj-N/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Boobathiraj-N/Leetcode/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Boobathiraj-N/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -493,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2032-two-out-of-three](https://github.com/Boobathiraj-N/Leetcode/tree/main/2032-two-out-of-three/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Boobathiraj-N/Leetcode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/Boobathiraj-N/Leetcode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
