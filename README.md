@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1991-find-the-middle-index-in-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Boobathiraj-N/Leetcode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Boobathiraj-N/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2032-two-out-of-three](https://github.com/Boobathiraj-N/Leetcode/tree/main/2032-two-out-of-three/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Boobathiraj-N/Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
