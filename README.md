@@ -180,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3866-first-unique-even-element](https://github.com/Boobathiraj-N/Leetcode/tree/main/3866-first-unique-even-element/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Boobathiraj-N/Leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Boobathiraj-N/Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3917-count-indices-with-opposite-parity](https://github.com/Boobathiraj-N/Leetcode/tree/main/3917-count-indices-with-opposite-parity/) | Easy |
 | [3921-score-validator](https://github.com/Boobathiraj-N/Leetcode/tree/main/3921-score-validator/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Boobathiraj-N/Leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
