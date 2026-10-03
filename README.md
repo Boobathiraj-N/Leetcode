@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Boobathiraj-N/Leetcode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Boobathiraj-N/Leetcode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1313-decompress-run-length-encoded-list](https://github.com/Boobathiraj-N/Leetcode/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Boobathiraj-N/Leetcode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Boobathiraj-N/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Boobathiraj-N/Leetcode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
@@ -284,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1051-height-checker](https://github.com/Boobathiraj-N/Leetcode/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/Boobathiraj-N/Leetcode/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Boobathiraj-N/Leetcode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Boobathiraj-N/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Boobathiraj-N/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -358,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1122-relative-sort-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Boobathiraj-N/Leetcode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Boobathiraj-N/Leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Boobathiraj-N/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1436-destination-city](https://github.com/Boobathiraj-N/Leetcode/tree/main/1436-destination-city/) | Easy |
