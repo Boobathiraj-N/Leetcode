@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3683-earliest-time-to-finish-one-task](https://github.com/Boobathiraj-N/Leetcode/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
+| [3697-compute-decimal-representation](https://github.com/Boobathiraj-N/Leetcode/tree/main/3697-compute-decimal-representation/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Boobathiraj-N/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Boobathiraj-N/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Boobathiraj-N/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
@@ -431,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Boobathiraj-N/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Boobathiraj-N/Leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Boobathiraj-N/Leetcode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
+| [3697-compute-decimal-representation](https://github.com/Boobathiraj-N/Leetcode/tree/main/3697-compute-decimal-representation/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Boobathiraj-N/Leetcode/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Boobathiraj-N/Leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Boobathiraj-N/Leetcode/tree/main/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
