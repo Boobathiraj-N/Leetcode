@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Boobathiraj-N/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Boobathiraj-N/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Boobathiraj-N/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Boobathiraj-N/Leetcode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Boobathiraj-N/Leetcode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Boobathiraj-N/Leetcode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
@@ -306,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Boobathiraj-N/Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Boobathiraj-N/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Boobathiraj-N/Leetcode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/Boobathiraj-N/Leetcode/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Boobathiraj-N/Leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Boobathiraj-N/Leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
