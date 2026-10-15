@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Boobathiraj-N/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/Boobathiraj-N/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0136-single-number](https://github.com/Boobathiraj-N/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Boobathiraj-N/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Boobathiraj-N/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -482,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/Boobathiraj-N/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0283-move-zeroes](https://github.com/Boobathiraj-N/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Boobathiraj-N/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0832-flipping-an-image](https://github.com/Boobathiraj-N/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
