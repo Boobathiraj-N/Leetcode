@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2395-find-subarrays-with-equal-sum](https://github.com/Boobathiraj-N/Leetcode/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2399-check-distances-between-same-letters](https://github.com/Boobathiraj-N/Leetcode/tree/main/2399-check-distances-between-same-letters/) | Easy |
 | [2418-sort-the-people](https://github.com/Boobathiraj-N/Leetcode/tree/main/2418-sort-the-people/) | Easy |
+| [2432-the-employee-that-worked-on-the-longest-task](https://github.com/Boobathiraj-N/Leetcode/tree/main/2432-the-employee-that-worked-on-the-longest-task/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Boobathiraj-N/Leetcode/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Boobathiraj-N/Leetcode/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
 | [2451-odd-string-difference](https://github.com/Boobathiraj-N/Leetcode/tree/main/2451-odd-string-difference/) | Easy |
