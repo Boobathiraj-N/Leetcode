@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0944-delete-columns-to-make-sorted](https://github.com/Boobathiraj-N/Leetcode/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0997-find-the-town-judge](https://github.com/Boobathiraj-N/Leetcode/tree/main/0997-find-the-town-judge/) | Easy |
 | [1002-find-common-characters](https://github.com/Boobathiraj-N/Leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1046-last-stone-weight](https://github.com/Boobathiraj-N/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1051-height-checker](https://github.com/Boobathiraj-N/Leetcode/tree/main/1051-height-checker/) | Easy |
@@ -373,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0819-most-common-word](https://github.com/Boobathiraj-N/Leetcode/tree/main/0819-most-common-word/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Boobathiraj-N/Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
+| [0997-find-the-town-judge](https://github.com/Boobathiraj-N/Leetcode/tree/main/0997-find-the-town-judge/) | Easy |
 | [1002-find-common-characters](https://github.com/Boobathiraj-N/Leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1122-relative-sort-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Boobathiraj-N/Leetcode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
@@ -609,6 +611,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0997-find-the-town-judge](https://github.com/Boobathiraj-N/Leetcode/tree/main/0997-find-the-town-judge/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Boobathiraj-N/Leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
