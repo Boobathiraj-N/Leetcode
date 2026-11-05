@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0806-number-of-lines-to-write-string](https://github.com/Boobathiraj-N/Leetcode/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0819-most-common-word](https://github.com/Boobathiraj-N/Leetcode/tree/main/0819-most-common-word/) | Easy |
 | [0832-flipping-an-image](https://github.com/Boobathiraj-N/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
+| [0860-lemonade-change](https://github.com/Boobathiraj-N/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0867-transpose-matrix](https://github.com/Boobathiraj-N/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0896-monotonic-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/0896-monotonic-array/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Boobathiraj-N/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -572,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0605-can-place-flowers](https://github.com/Boobathiraj-N/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
+| [0860-lemonade-change](https://github.com/Boobathiraj-N/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0942-di-string-match](https://github.com/Boobathiraj-N/Leetcode/tree/main/0942-di-string-match/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/Boobathiraj-N/Leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Boobathiraj-N/Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
