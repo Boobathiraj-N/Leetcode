@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1773-count-items-matching-a-rule](https://github.com/Boobathiraj-N/Leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Boobathiraj-N/Leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Boobathiraj-N/Leetcode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Boobathiraj-N/Leetcode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Boobathiraj-N/Leetcode/tree/main/1909-remove-one-element-to-make-the-array-strictly-increasing/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Boobathiraj-N/Leetcode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Boobathiraj-N/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -579,6 +580,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0860-lemonade-change](https://github.com/Boobathiraj-N/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0942-di-string-match](https://github.com/Boobathiraj-N/Leetcode/tree/main/0942-di-string-match/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/Boobathiraj-N/Leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Boobathiraj-N/Leetcode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Boobathiraj-N/Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Boobathiraj-N/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Boobathiraj-N/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
